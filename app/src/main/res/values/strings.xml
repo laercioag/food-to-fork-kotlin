@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food To Fork</string>
+    <string name="title_recipes_fragment">Recipes</string>
+    <string name="action_settings">Settings</string>
+    <string name="go">Go</string>
+    <string name="error_message">Couldn\'t load recipes</string>
+</resources>
